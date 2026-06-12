@@ -41,8 +41,3 @@ From dumping Unreal Engine SDKs at runtime to writing multithreaded systems and 
 - **Cub3d** — Raycasting 3D engine built from scratch
 
 ```markdown
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayid-elkhair/zayid-elkhair/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zayid-elkhair/zayid-elkhair/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/zayid-elkhair/zayid-elkhair/output/github-contribution-grid-snake.svg">
-</picture>
