@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&text=24%20%7C%207&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h1 align="center">Hi, I'm <strong>YOUR_NAME</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Zayid Elkhair</strong> 👋</h1>
 <h3 align="center">Building • Creating • Shipping <strong>24/7</strong></h3>
 
 <p align="center">
