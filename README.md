@@ -40,19 +40,6 @@ From dumping Unreal Engine SDKs at runtime to writing multithreaded systems and 
 - **push_swap** — Highly optimized stack-only sorting algorithm
 - **Cub3d** — Raycasting 3D engine built from scratch
 
----
-
-### 🏆 Achievements
-
-- **42 Abu Dhabi Student Award Winner** — April 2026
-- **AI Innovation Hackathon** — Built Agentic AI solutions
-
----
-
-### 📈 Live Animations
-
-**Animated Contribution Snake** (updates automatically):
-
 ```markdown
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayid-elkhair/zayid-elkhair/output/github-contribution-grid-snake-dark.svg">
