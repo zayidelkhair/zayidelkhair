@@ -29,15 +29,3 @@ From dumping Unreal Engine SDKs at runtime to writing multithreaded systems and 
 | **Other**               | `Data Science / ML` `Unreal Engine Memory` `MiniLibX` |
 
 ---
-
-### 🚀 Featured Projects
-
-- **SDK_DUMP_UE4** — Runtime Unreal Engine 4 SDK dumper & structure reconstructor (C++)
-- **UE4SDKGenerator** — Full SDK generator for UE4 Android (v4.18–4.22)
-- **Aidkit_UE4_dev** — Educational reverse engineering toolkit for UE4 APKs
-- **minishell** — Complete Unix shell with pipes, redirections & signals (C)
-- **philosophers** — Multithreaded dining philosophers with proper synchronization
-- **push_swap** — Highly optimized stack-only sorting algorithm
-- **Cub3d** — Raycasting 3D engine built from scratch
-
-```markdown
